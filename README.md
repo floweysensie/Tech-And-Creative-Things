@@ -1,34 +1,39 @@
 # Tech and Creations
 
-"This document is a curated list of external resources. All credit goes to the respective authors and creators. Please refer to the linked sources for more information or licensing details"
+*This document is a curated list of external resources. All credit goes to the respective authors and creators. Please refer to the linked sources for more information or licensing details.*
+
+---
 
 ## Linux / Terminal
-### Here is the informaiton about Linux operating systems and tools
+### Resources about Linux operating systems and command line tools
 
-  1. Linux Beginner's Guide (Arabic language):
-    - It is an article where the stupid explains the basics about Linux and open source software in fluent Arabic. <br>
-    - Link: https://discourse.aosus.org/t/topic/2373
-  
-  2. Linux Journey:
-    - It offers free courses and tutorials to help people learn Linux, from basic command line usage to more advanced topics like networking and the kernel. <br>
-    - Link: https://linuxjourney.com
-    
-  3. Terminal Emulator:
-    - It is a collection of 53 terminal emulators. It provides details about their connectivity, user interface, operating system compatibility, and a brief description. Examples include AbsoluteTelnet, Alacritty, and iTerm2. <br>
-    - Link: https://termui.sh
+1. **Linux Beginner's Guide (Arabic)**
+   - Comprehensive article explaining Linux basics and open source concepts in Arabic
+   - Link: [https://discourse.aosus.org/t/topic/2373](https://discourse.aosus.org/t/topic/2373)
+
+2. **Linux Journey**
+   - Free interactive tutorials covering Linux from basic commands to advanced topics like networking and kernel
+   - Link: [https://linuxjourney.com](https://linuxjourney.com)
+
+3. **Terminal Emulator Collection**
+   - Catalog of 53 terminal emulators with details about features, compatibility, and interfaces
+   - Includes popular options like Alacritty and iTerm2
+   - Link: [https://termui.sh](https://termui.sh)
+
+---
 
 ## Programming / Open Source
-### This section contains information about programming books and open source resources
+### Resources for learning programming and open source software
 
-  1. Free Programming Book <br>
-    a. By language <br>
-      - This section deals with the language depending on the programming language you will learn. <br>
-      - Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
+1. **Free Programming Books**
+   - **By Language**  
+     Organized by programming language (Python, Java, etc.)  
+     Link: [https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
+   
+   - **By Subject**  
+     Topic-based learning (Algorithms, Web Development, etc.)  
+     Link: [https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 
-  b. By subject <br>
-      - This section teaches programming in a neutral programming language and depends on the field you will learn. <br>
-      - Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md
-
-  1. Open Source Programs
-    - It is an image that contains all open source and non-proprietary software. <br>
-    - Link: https://files.catbox.moe/o99qyz.jpg
+2. **Open Source Programs Reference**
+   - Visual guide to major open source and free software alternatives
+   - Link: [https://files.catbox.moe/o99qyz.jpg](https://files.catbox.moe/o99qyz.jpg)
