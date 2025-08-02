@@ -21,10 +21,10 @@
 ### This section contains information about programming books and open source resources
 
   1. Free Programming Book
-    - By language
+    - By language <br>
       - This section deals with the language depending on the programming language you will learn. <br>
       - Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
-    - By subject
+    - By subject <br>
       - This section teaches programming in a neutral programming language and depends on the field you will learn. <br>
       - Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md
   
