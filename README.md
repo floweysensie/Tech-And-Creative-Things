@@ -25,8 +25,8 @@
       + + This section deals with the language depending on the programming language you will learn. <br>
       + + Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
     - By subject
-      + + This section teaches programming in a neutral programming language and depends on the field you will learn. <br>
-      + + Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md
+      - + This section teaches programming in a neutral programming language and depends on the field you will learn. <br>
+      - + Link: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md
   
   2. Open Source Programs
     - It is an image that contains all open source and non-proprietary software. <br>
